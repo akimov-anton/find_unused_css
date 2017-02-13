@@ -1,0 +1,11 @@
+{
+  "name": "find_unused_css",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "css": "^2.2.1",
+    "string-search": "^1.2.0",
+    "underscore": "^1.8.3"
+  }
+}
